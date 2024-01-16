@@ -1,3 +1,5 @@
-learn
-learn.cmi
-learn.o
+]
+*.cmi
+*.o
+*.cmx
+
